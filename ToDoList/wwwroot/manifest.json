@@ -1,0 +1,20 @@
+{
+  "name": "ToDoList",
+  "short_name": "ToDo",
+  "description": "ToDoList",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/icons/logo192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/logo192.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "color": "#ffffff",
+  "background_color": "#20c4f4",
+  "theme_color": "#20c4f4"
+}
